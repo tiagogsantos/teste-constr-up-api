@@ -15,8 +15,8 @@ API RESTful para gerenciamento de produtos. Desenvolvida com **Laravel 12** e **
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/laravel-produtos.git
-cd laravel-produtos
+git clone https://github.com/tiagogsantos/teste-constr-up-api
+cd teste-constr-up-api
 ```
 
 ### 2. Instale as dependências PHP
@@ -62,7 +62,7 @@ php artisan db:seed
 php artisan serve
 ```
 
-A API estará disponível em: **`http://localhost:8000`**
+A API estará disponível em: **`http://localhost`**
 
 ---
 
