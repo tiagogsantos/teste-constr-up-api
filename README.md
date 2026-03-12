@@ -15,7 +15,7 @@ API RESTful para gerenciamento de produtos. Desenvolvida com **Laravel 12** e **
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/tiagogsantos/teste-constr-up-api
+git clone https://github.com/tiagogsantos/teste-constr-up-api.git
 cd teste-constr-up-api
 ```
 
